@@ -11,3 +11,7 @@
 - 'test/X_test.txt': Test set.
 
 - 'test/y_test.txt': Test labels.
+
+-TidyData: Extracts only the measurements on the mean and standard deviation for each measurement. 
+
+-TIdyData2: independent tidy data set with the average of each variable for each activity and each subject.
