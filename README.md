@@ -1,5 +1,7 @@
 # Getting-and-Cleaning-Data-Course-Project
 
+-TidaData : all the data related with mean and standard deviation of the human activity dataset
+
 
 - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
 - Triaxial Angular velocity from the gyroscope. 
